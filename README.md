@@ -7,7 +7,7 @@
   <br>
 
   <p align="center" width="600">
-    I'm <b>Adwaith</b>.
+    I'm <b>Adwaith</b> (aka Yuukii).
     <br><br>
     I exist at the intersection of <b>creative chaos</b> and <b>structured code</b>. 
     <br>
@@ -30,12 +30,12 @@
 <br>
 
 ### 🍵 The Vibe Check
-I'm 18, I break things, and then I fix them (usually).
+I'm 18, I break things, and then I fix them.
 * **🧠 Brain:** Front-End Developer currently installing the `Full-Stack` DLC.
 * **🥁 Rhythm:** I hit drums when the code hits errors. (Trinity Grade 6).
 * **🐈 Allies:** Cats. They understand the code better than I do sometimes.
-* **🤖 Side Quest:** Providing emotional support to my Gemini AI so it doesn't go rogue.
-* **⚔️ Current Battle:** "Debugging" arguments with my girlfriend. (She has root access, I usually lose).
+* **🤖 Side Quest:** Providing emotional support to my Gemini AI.
+* **⚔️ Current Battle:** "Debugging" arguments with my girlfriend.
 
 ---
 
@@ -58,7 +58,7 @@ I'm 18, I break things, and then I fix them (usually).
   <br>
 
   <a href="https://github.com/cozyyuukii">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cozyyuukii&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=0d1117&title_color=EAB308&icon_color=EAB308" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cozyyuukii&show_icons=true&theme=radical&hide_border=true" />
   </a>
 
   <br><br>
