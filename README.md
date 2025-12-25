@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bliss_%28Windows_XP%29.png/800px-Bliss_%28Windows_XP%29.png" width="100%" height="150" style="object-fit: cover; border-radius: 8px 8px 0 0;" />
+  <img src="https://github.com/sk-2019/php-sql-wp-server/blob/master/uploads/bliss.jpg?raw=true" width="100%" height="160" style="object-fit: cover; border-radius: 10px 10px 0 0;" />
 
   <br><br>
 
@@ -10,29 +10,29 @@
 
   <br>
 
-  <div style="border: 3px solid #0055EA; border-radius: 8px; overflow: hidden; max-width: 700px; box-shadow: 4px 4px 0px #C0C0C0;">
-    
-    <div style="background: linear-gradient(to right, #0055EA, #0055EA, #3A6EA5); color: white; padding: 6px 12px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 14px; letter-spacing: 0.5px;">
-      ℹ️ System Properties - Adwaith.exe
-    </div>
-
-    <div style="background-color: #ECE9D8; color: black; padding: 20px; font-family: Tahoma, sans-serif; font-size: 14px;">
-      <p><b>User:</b> Adwaith (Administrator)</p>
-      <p>I exist at the intersection of <b>CREATIVE CHAOS</b> and <b>STRUCTURED CODE</b>.</p>
-      <p>Professionally, I lead <a href="https://synaptive.space/"><b style="color: #0055EA;">SYNAPTIVE</b></a>, bridging the gap between abstract ideas and deployed reality.</p>
-      
-      <hr style="border: 1px inset #fff;">
-      
-      <p><b>System Information:</b></p>
-      <ul>
-        <li>🧠 <b>Class:</b> Front-End Dev <span style="color: #666;">[Installing Full-Stack Service Pack 2...]</span></li>
-        <li>🥁 <b>Audio:</b> Drums (Trinity Grade 6) <span style="color: #666;">[Drivers updated]</span></li>
-        <li>🐈 <b>Peripherals:</b> Cats <span style="color: #666;">[High priority process]</span></li>
-        <li>🤖 <b>Support:</b> Providing emotional backup to my Gemini AI.</li>
-        <li>⚠️ <b>Warning:</b> "Debugging" arguments with GF. <span style="color: red;">[Access Denied]</span></li>
-      </ul>
-    </div>
-  </div>
+  <table width="100%" style="border: 2px solid #0055EA; border-radius: 8px;">
+    <tr>
+      <td bgcolor="#0055EA" style="color: white; font-family: sans-serif; font-weight: bold; padding: 8px;">
+        ℹ️ System Properties - Adwaith.exe
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#ECE9D8" style="color: black; font-family: sans-serif; padding: 20px;">
+        <p><b>User:</b> Adwaith (Administrator)</p>
+        <p>I exist at the intersection of <b>CREATIVE CHAOS</b> and <b>STRUCTURED CODE</b>.</p>
+        <p>Professionally, I lead <a href="https://synaptive.space/"><b>SYNAPTIVE</b></a>, bridging the gap between abstract ideas and deployed reality.</p>
+        <br>
+        <p><b>System Information:</b></p>
+        <ul>
+          <li>🧠 <b>Class:</b> Front-End Dev [Installing Full-Stack Service Pack 2...]</li>
+          <li>🥁 <b>Audio:</b> Drums (Trinity Grade 6) [Drivers updated]</li>
+          <li>🐈 <b>Peripherals:</b> Cats [High priority process]</li>
+          <li>🤖 <b>Support:</b> Providing emotional backup to my Gemini AI.</li>
+          <li>⚠️ <b>Warning:</b> "Debugging" arguments with GF. [Access Denied]</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
   <br>
 
@@ -52,7 +52,7 @@
 <div align="left">
 
   <h3>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2001-2006.svg" width="25" /> 
+    <img src="https://img.icons8.com/color/48/000000/windows-xp.png" width="25" valign="middle" /> 
     Local Disk (C:) > Tools
   </h3>
   
@@ -71,12 +71,12 @@
 
   <br>
 
-  <table style="border: none;">
+  <table>
     <tr>
-      <td valign="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/en/e/e5/Clippy-letter.PNG" width="60" />
+      <td width="80" align="center">
+        <img src="https://web.archive.org/web/20230602052136im_/https://assets.stickpng.com/images/5cb0633d80f2cf201a4c3253.png" width="60" />
       </td>
-      <td valign="center" style="border: none;">
+      <td>
         <b>It looks like you're trying to visit my portfolio.</b><br>
         Would you like some help with that?
         <br><br>
