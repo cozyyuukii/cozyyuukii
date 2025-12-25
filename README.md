@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/shervinc/windows-xp-wallpapers/bliss.jpg" width="100%" height="180" style="object-fit: cover; border-radius: 10px 10px 0 0;" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Bliss_%28Windows_XP%29.png/800px-Bliss_%28Windows_XP%29.png" width="100%" height="180" style="object-fit: cover; border-radius: 10px 10px 0 0;" />
 
   <br><br>
 
@@ -73,7 +73,7 @@
   <table>
     <tr>
       <td width="80" align="center" valign="middle">
-        <img src="https://cdn.jsdelivr.net/gh/dnnsmnstr/clippyjs/agents/Clippy/clippy.png" width="60" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/e/e5/Clippy-letter.PNG" width="60" />
       </td>
       <td valign="middle">
         <b>It looks like you're trying to visit my portfolio.</b><br>
