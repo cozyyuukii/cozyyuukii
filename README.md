@@ -1,34 +1,47 @@
 <div align="left">
 
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Bliss_%28Windows_XP%29.png/800px-Bliss_%28Windows_XP%29.png" width="100%" height="180" style="object-fit: cover; border-radius: 10px 10px 0 0;" />
-
-  <br><br>
-
-  <a href="https://yuukii.space">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tahoma&weight=700&size=28&pause=1000&color=0055EA&center=false&vCenter=false&random=false&width=600&lines=Welcome,+Administrator.;I'm+Yuukii+(Adwaith).;Loading+Creative_Chaos.exe...;Error:+Girlfriend_Argument_Detected." alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <table width="100%" style="border: 2px solid #0055EA; border-radius: 8px; border-spacing: 0; overflow: hidden; background-color: #ECE9D8;">
-    <tr>
-      <td style="background-color: #0055EA; color: white; font-family: Tahoma, sans-serif; font-weight: bold; padding: 8px 12px; font-size: 14px;">
-        ℹ️ System Properties - Adwaith.exe
+  <table width="100%" cellspacing="0" cellpadding="0">
+    <tr style="height: 30px;">
+      <td style="background-color: #0054E3; border-top-left-radius: 8px; border-top-right-radius: 8px; padding: 10px; color: white; font-family: Tahoma, sans-serif; font-weight: bold; border-bottom: 3px solid #E68B2C;">
+        <span style="font-size: 18px;">💾 Windows XP Professional</span>
       </td>
     </tr>
     <tr>
-      <td style="padding: 20px; color: #000000; font-family: Tahoma, sans-serif; font-size: 14px;">
+      <td style="background-color: #6D9BF1; padding: 2px;"></td>
+    </tr>
+  </table>
+
+  <br>
+
+  <div style="background-color: #000000; padding: 15px; border-radius: 5px; border: 2px solid #808080; font-family: Consolas, monospace; color: #C0C0C0;">
+    <span>C:\Users\Yuukii> whoami</span><br>
+    <span style="color: #4AF626;">> I'm Adwaith (aka Yuukii).</span><br>
+    <br>
+    <span>C:\Users\Yuukii> run bio.exe</span><br>
+    <span style="color: #4AF626;">> Loading Creative_Chaos... Success.</span><br>
+  </div>
+
+  <br>
+
+  <table width="100%" cellspacing="0" cellpadding="0" style="border: 2px solid #0054E3; border-radius: 5px; overflow: hidden; font-family: Tahoma, sans-serif;">
+    <tr>
+      <td style="background: linear-gradient(90deg, #0054E3 0%, #2F72E8 100%); color: white; padding: 8px 12px; font-weight: bold; font-size: 14px;">
+        ℹ️ System Properties
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #ECE9D8; padding: 20px; color: black; font-size: 14px;">
         <p><b>User:</b> Adwaith (Administrator)</p>
         <p>I exist at the intersection of <b>CREATIVE CHAOS</b> and <b>STRUCTURED CODE</b>.</p>
-        <p>Professionally, I lead <a href="https://synaptive.space/"><b style="color: #0055EA;">SYNAPTIVE</b></a>, bridging the gap between abstract ideas and deployed reality.</p>
-        <br>
-        <p><b>System Information:</b></p>
-        <ul style="list-style-type: square; padding-left: 20px;">
-          <li>🧠 <b>Class:</b> Front-End Dev [Installing Full-Stack Service Pack 2...]</li>
-          <li>🥁 <b>Audio:</b> Drums (Trinity Grade 6) [Drivers updated]</li>
-          <li>🐈 <b>Peripherals:</b> Cats [High priority process]</li>
-          <li>🤖 <b>Support:</b> Providing emotional backup to my Gemini AI.</li>
-          <li>⚠️ <b>Warning:</b> "Debugging" arguments with GF. [Access Denied]</li>
+        <p>Professionally, I lead <a href="https://synaptive.space/"><b style="color: #0054E3;">SYNAPTIVE</b></a>, bridging the gap between abstract ideas and deployed reality.</p>
+        <hr style="border: 0; border-top: 1px solid #A0A0A0; margin: 15px 0;">
+        <p><b>Hardware & Processes:</b></p>
+        <ul style="list-style-type: none; padding: 0;">
+          <li>🧠 <b>Class:</b> Front-End Dev [Loading Full-Stack DLC...]</li>
+          <li>🥁 <b>Audio:</b> Drums (Trinity Grade 6) [Volume: 100%]</li>
+          <li>🐈 <b>Peripherals:</b> Cats [High Priority]</li>
+          <li>🤖 <b>Service:</b> Gemini AI Support Agent</li>
+          <li>⚠️ <b>Error:</b> "Debugging" arguments with GF [Access Denied]</li>
         </ul>
       </td>
     </tr>
@@ -37,10 +50,10 @@
   <br>
 
   <a href="https://synaptive.space/">
-    <img src="https://img.shields.io/badge/Start-Synaptive-3DAF49?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/START-SYNAPTIVE-46A049?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
   <a href="https://thezero.day/">
-    <img src="https://img.shields.io/badge/Run-The_Zero_Day-0055EA?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+    <img src="https://img.shields.io/badge/RUN-THE_ZERO_DAY-0054E3?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 
 </div>
@@ -51,7 +64,7 @@
 
 <div align="left">
 
-  <h3>
+  <h3 style="font-family: Tahoma, sans-serif;">
     💿 Local Disk (C:) > Tools
   </h3>
   
@@ -70,17 +83,16 @@
 
   <br>
 
-  <table>
+  <table width="100%" style="background-color: #FFFFE1; border: 1px solid #000; border-radius: 10px; padding: 10px;">
     <tr>
-      <td width="80" align="center" valign="middle">
-        <img src="https://upload.wikimedia.org/wikipedia/en/e/e5/Clippy-letter.PNG" width="60" />
+      <td width="50" style="font-size: 40px; vertical-align: middle; text-align: center;">
+        📎
       </td>
-      <td valign="middle">
+      <td style="font-family: Tahoma, sans-serif; font-size: 12px; color: black;">
         <b>It looks like you're trying to visit my portfolio.</b><br>
-        Would you like some help with that?
-        <br><br>
+        Would you like help with that?<br><br>
         <a href="https://yuukii.space">
-          <img src="https://img.shields.io/badge/Yes,_Take_Me_There-yuukii.space-0055EA?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
+          <img src="https://img.shields.io/badge/Yes,_Take_Me_There-yuukii.space-0054E3?style=flat-square" />
         </a>
       </td>
     </tr>
