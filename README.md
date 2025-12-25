@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img src="https://github.com/shervinc/windows-xp-wallpapers/blob/master/bliss.jpg?raw=true" width="100%" height="180" style="object-fit: cover; border-radius: 10px 10px 0 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/shervinc/windows-xp-wallpapers/bliss.jpg" width="100%" height="180" style="object-fit: cover; border-radius: 10px 10px 0 0;" />
 
   <br><br>
 
@@ -10,20 +10,20 @@
 
   <br>
 
-  <table width="100%" style="border: 2px solid #0055EA; border-radius: 8px; border-spacing: 0; overflow: hidden;">
+  <table width="100%" style="border: 2px solid #0055EA; border-radius: 8px; border-spacing: 0; overflow: hidden; background-color: #ECE9D8;">
     <tr>
-      <td bgcolor="#0055EA" style="color: white; font-family: sans-serif; font-weight: bold; padding: 8px 12px; font-size: 14px;">
+      <td style="background-color: #0055EA; color: white; font-family: Tahoma, sans-serif; font-weight: bold; padding: 8px 12px; font-size: 14px;">
         ℹ️ System Properties - Adwaith.exe
       </td>
     </tr>
     <tr>
-      <td bgcolor="#ECE9D8" style="color: black; font-family: sans-serif; padding: 20px; font-size: 14px;">
+      <td style="padding: 20px; color: #000000; font-family: Tahoma, sans-serif; font-size: 14px;">
         <p><b>User:</b> Adwaith (Administrator)</p>
         <p>I exist at the intersection of <b>CREATIVE CHAOS</b> and <b>STRUCTURED CODE</b>.</p>
-        <p>Professionally, I lead <a href="https://synaptive.space/"><b>SYNAPTIVE</b></a>, bridging the gap between abstract ideas and deployed reality.</p>
+        <p>Professionally, I lead <a href="https://synaptive.space/"><b style="color: #0055EA;">SYNAPTIVE</b></a>, bridging the gap between abstract ideas and deployed reality.</p>
         <br>
         <p><b>System Information:</b></p>
-        <ul style="list-style-type: square;">
+        <ul style="list-style-type: square; padding-left: 20px;">
           <li>🧠 <b>Class:</b> Front-End Dev [Installing Full-Stack Service Pack 2...]</li>
           <li>🥁 <b>Audio:</b> Drums (Trinity Grade 6) [Drivers updated]</li>
           <li>🐈 <b>Peripherals:</b> Cats [High priority process]</li>
@@ -52,8 +52,7 @@
 <div align="left">
 
   <h3>
-    <img src="https://github.com/microsoft/fluentui-system-icons/raw/master/assets/Hard%20Drive/IC_Fluent_Hard_Drive_24_Color.png" width="25" valign="middle" /> 
-    Local Disk (C:) > Tools
+    💿 Local Disk (C:) > Tools
   </h3>
   
   <p>
@@ -74,7 +73,7 @@
   <table>
     <tr>
       <td width="80" align="center" valign="middle">
-        <img src="https://github.com/dnnsmnstr/clippyjs/blob/master/agents/Clippy/clippy.png?raw=true" width="60" />
+        <img src="https://cdn.jsdelivr.net/gh/dnnsmnstr/clippyjs/agents/Clippy/clippy.png" width="60" />
       </td>
       <td valign="middle">
         <b>It looks like you're trying to visit my portfolio.</b><br>
