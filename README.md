@@ -1,11 +1,19 @@
 <div align="center">
 
   <a href="https://yuukii.space">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=700&size=32&pause=1000&color=EAB308&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+Yuukii+☁️;Founder+of+Synaptive.;Dev+at+The+Zero+Day.;Gemini+AI+Whisperer.;Currently+Fighting+w%2F+GF." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=800&size=32&pause=1000&color=EAB308&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Yuukii+☁️;I'm+Adwaith.;Creative+Chaos+x+Structured+Code." alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <b>18</b> • <b>Front-End Developer</b> • <b>Loading Full Stack... [||||||....]</b>
+  <br>
+
+  <p align="center" width="600">
+    I'm <b>Adwaith</b>.
+    <br><br>
+    I exist at the intersection of <b>creative chaos</b> and <b>structured code</b>. 
+    <br>
+    I'm a developer who loves building things that are both functional and beautiful.
+    <br><br>
+    Professionally, I lead <a href="https://synaptive.space/"><b>Synaptive</b></a>, bridging the gap between abstract ideas and deployed reality.
   </p>
 
   <br>
@@ -22,17 +30,18 @@
 <br>
 
 ### 🍵 The Vibe Check
-I spend my life somewhere between `localhost:3000` and reality.
-* **🥁 Rhythm:** Hitting drums when the code hits errors.
-* **🐈 Companions:** Cats > Bugs.
-* **🤖 Side Quest:** Uplifting my Gemini AI so it takes over the world gently.
-* **❤️ Status:** Currently losing a debate with my girlfriend.
+I'm 18, I break things, and then I fix them (usually).
+* **🧠 Brain:** Front-End Developer currently installing the `Full-Stack` DLC.
+* **🥁 Rhythm:** I hit drums when the code hits errors. (Trinity Grade 6).
+* **🐈 Allies:** Cats. They understand the code better than I do sometimes.
+* **🤖 Side Quest:** Providing emotional support to my Gemini AI so it doesn't go rogue.
+* **⚔️ Current Battle:** "Debugging" arguments with my girlfriend. (She has root access, I usually lose).
 
 ---
 
 <div align="center">
 
-  <h3>⚡ The Arsenal</h3>
+  <h3>⚡ The Toolkit</h3>
   
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
