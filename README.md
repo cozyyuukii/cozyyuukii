@@ -1,27 +1,23 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100%" height="180" style="object-fit: cover;" />
-
-  <br><br>
-
   <a href="https://yuukii.space">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=28&pause=1000&color=FF71CE&center=true&vCenter=true&random=false&width=600&lines=hw_init_status:+ONLINE;WELCOME+TO+1984;I'M+YUUKII+%2F%2F+ADWAITH;FULL_STACK_DEV.EXE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=800&size=32&pause=1000&color=FF71CE&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Yuukii+☁️;I'm+Adwaith.;Creative+Chaos+x+Structured+Code." alt="Typing SVG" />
   </a>
 
   <br>
 
-  <div style="background-color: #0d0221; border: 2px solid #01cdfe; border-radius: 10px; padding: 20px; color: #fff;">
+  <div style="background-color: #0d0221; border: 2px solid #01cdfe; border-radius: 10px; padding: 20px; color: #fff; text-align: left; max-width: 600px; margin: 0 auto;">
     <samp>
       <span style="color: #05ffa1;">user@yuukii:~$</span> <b>whoami</b><br>
-      > An 18-year-old dev bridging <b><span style="color: #ff71ce;">CREATIVE CHAOS</span></b> and <b><span style="color: #01cdfe;">STRUCTURED CODE</span></b>.<br>
+      > I'm <b>Adwaith</b>. I exist at the intersection of <b style="color: #ff71ce;">CREATIVE CHAOS</b> and <b style="color: #01cdfe;">STRUCTURED CODE</b>.<br>
+      > Professionally, I lead <a href="https://synaptive.space/"><b style="color: #fffb96;">SYNAPTIVE</b></a>, bridging abstract ideas with deployed reality.<br>
       <br>
-      <span style="color: #05ffa1;">user@yuukii:~$</span> <b>current_mission</b><br>
-      > Leading <a href="https://synaptive.space/"><b style="color: #fffb96;">SYNAPTIVE</b></a> // Building <a href="https://thezero.day/"><b style="color: #fffb96;">THE ZERO DAY</b></a><br>
-      <br>
-      <span style="color: #05ffa1;">user@yuukii:~$</span> <b>status</b><br>
-      > 🥁 <b>Rhythm:</b> Drums (Grade 6) [Volume: 100%]<br>
-      > 🐈 <b>Allies:</b> Cats [Cuteness: Overload]<br>
-      > 💔 <b>Error:</b> Argument with GF [Debugging...]<br>
+      <span style="color: #05ffa1;">user@yuukii:~$</span> <b>vibe_check --verbose</b><br>
+      > 🧠 <b>Class:</b> Front-End Dev [Installing Full-Stack DLC...]<br>
+      > 🥁 <b>Rhythm:</b> Drums (Trinity Grade 6) [I hit things when code breaks]<br>
+      > 🐈 <b>Allies:</b> Cats [They understand my code better than I do]<br>
+      > 🤖 <b>Side Quest:</b> Providing emotional support to my Gemini AI<br>
+      > ⚔️ <b>Current Battle:</b> "Debugging" arguments with my girlfriend [She has root access]<br>
     </samp>
   </div>
 
@@ -42,12 +38,12 @@
 
 <div align="center">
 
-  <h3>🕹️　ＥＱＵＩＰＰＥＤ　ＷＥＡＰＯＮＳ</h3>
+  <h3>🕹️　ＴＨＥ　ＴＯＯＬＫＩＴ</h3>
   
   <p>
     <img src="https://img.shields.io/badge/HTML5-FF9A8B?style=flat-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-8EECF5?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JS_ES6-FFF685?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/JavaScript-FFF685?style=flat-square&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/React-05FFA1?style=flat-square&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Tailwind-B967FF?style=flat-square&logo=tailwind-css&logoColor=white" />
   </p>
@@ -65,6 +61,6 @@
   
   <br><br>
 
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPDa/giphy.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;" />
 
 </div>
