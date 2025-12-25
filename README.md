@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img src="https://github.com/sk-2019/php-sql-wp-server/blob/master/uploads/bliss.jpg?raw=true" width="100%" height="160" style="object-fit: cover; border-radius: 10px 10px 0 0;" />
+  <img src="https://github.com/shervinc/windows-xp-wallpapers/blob/master/bliss.jpg?raw=true" width="100%" height="180" style="object-fit: cover; border-radius: 10px 10px 0 0;" />
 
   <br><br>
 
@@ -10,20 +10,20 @@
 
   <br>
 
-  <table width="100%" style="border: 2px solid #0055EA; border-radius: 8px;">
+  <table width="100%" style="border: 2px solid #0055EA; border-radius: 8px; border-spacing: 0; overflow: hidden;">
     <tr>
-      <td bgcolor="#0055EA" style="color: white; font-family: sans-serif; font-weight: bold; padding: 8px;">
+      <td bgcolor="#0055EA" style="color: white; font-family: sans-serif; font-weight: bold; padding: 8px 12px; font-size: 14px;">
         ℹ️ System Properties - Adwaith.exe
       </td>
     </tr>
     <tr>
-      <td bgcolor="#ECE9D8" style="color: black; font-family: sans-serif; padding: 20px;">
+      <td bgcolor="#ECE9D8" style="color: black; font-family: sans-serif; padding: 20px; font-size: 14px;">
         <p><b>User:</b> Adwaith (Administrator)</p>
         <p>I exist at the intersection of <b>CREATIVE CHAOS</b> and <b>STRUCTURED CODE</b>.</p>
         <p>Professionally, I lead <a href="https://synaptive.space/"><b>SYNAPTIVE</b></a>, bridging the gap between abstract ideas and deployed reality.</p>
         <br>
         <p><b>System Information:</b></p>
-        <ul>
+        <ul style="list-style-type: square;">
           <li>🧠 <b>Class:</b> Front-End Dev [Installing Full-Stack Service Pack 2...]</li>
           <li>🥁 <b>Audio:</b> Drums (Trinity Grade 6) [Drivers updated]</li>
           <li>🐈 <b>Peripherals:</b> Cats [High priority process]</li>
@@ -52,7 +52,7 @@
 <div align="left">
 
   <h3>
-    <img src="https://img.icons8.com/color/48/000000/windows-xp.png" width="25" valign="middle" /> 
+    <img src="https://github.com/microsoft/fluentui-system-icons/raw/master/assets/Hard%20Drive/IC_Fluent_Hard_Drive_24_Color.png" width="25" valign="middle" /> 
     Local Disk (C:) > Tools
   </h3>
   
@@ -73,10 +73,10 @@
 
   <table>
     <tr>
-      <td width="80" align="center">
-        <img src="https://web.archive.org/web/20230602052136im_/https://assets.stickpng.com/images/5cb0633d80f2cf201a4c3253.png" width="60" />
+      <td width="80" align="center" valign="middle">
+        <img src="https://github.com/dnnsmnstr/clippyjs/blob/master/agents/Clippy/clippy.png?raw=true" width="60" />
       </td>
-      <td>
+      <td valign="middle">
         <b>It looks like you're trying to visit my portfolio.</b><br>
         Would you like some help with that?
         <br><br>
