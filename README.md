@@ -1,4 +1,4 @@
-### Hey, I'm Adwaith, aka as yuukii 
+### Hey, I'm Adwaith, aka yuukii ✴︎
 
 I am a web developer and UI/UX designer based in Thrissur, Kerala. Currently, I serve as the Lead Developer and Designer @ **[Narrativ](https://narrativ.co.in/)** ;
 
